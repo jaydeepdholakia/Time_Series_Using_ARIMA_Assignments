@@ -1,0 +1,24 @@
+### JupyterNotebooks ###
+
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+/Week 1/Week_1-_Time-series_forecasting_using_ARIMA.ipynb
+
+# IPython
+profile_default/
+ipython_config.py
+
+# Remove previous ipynb_checkpoints
+#   git rm -r .ipynb_checkpoints/
+
+### VisualStudioCode ###
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+*.code-workspace
+
+### VisualStudioCode Patch ###
+# Ignore all local history of files
+.history
